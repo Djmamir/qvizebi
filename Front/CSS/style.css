@@ -1,0 +1,39 @@
+body {
+ background-image: url("../../Source/background.png");
+ background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+button {background-color:silver}
+
+div {
+
+	font-family:
+	text-align: center;
+	height: 200px;
+    width: 60%;
+    margin: auto;
+    padding: 220px;
+}
+
+p {
+	font-size:30px;
+	text-align: center;
+	font-family:;
+}
+
+@font-face {
+    font-family: 'gl_kirovibold';
+    src: url('../../Source/gl-kirovi-bold-webfont.woff2') format('woff2'),
+         url('../../Source/gl-kirovi-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+button{
+    background-color: silver !important;
+    outline-color: silver !important;
+    border-color: black !important;
+    color
+}
